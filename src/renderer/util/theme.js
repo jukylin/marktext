@@ -140,5 +140,4 @@ export const addStyles = style => {
   const { theme } = style
   addThemeStyle(theme)
   addCommonStyle(style)
-  addElementStyle()
 }
